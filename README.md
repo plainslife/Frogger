@@ -1,6 +1,7 @@
 # Frogger
 
-This game was developed as part of the "Learn Python by Making Games" course by Christian Koch on Udemy. 
+This game is initially based on the 'Learn Python by Making Games' course on Udemy.
+But I played around with it and made several changes to the code."
 
 ## Assets
 
