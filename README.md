@@ -7,4 +7,11 @@ But I played around with it and made several changes to the code."
 
 This game uses assets from the [RPG Urban Pack](https://kenney.nl/assets/rpg-urban-pack) by [Kenney](https://kenney.nl/).
 
+## How to Run
+
+To run the game, navigate to the `src` directory and run the `main.py` file:
+
+```bash
+python main.py
+
 
