@@ -13,5 +13,3 @@ To run the game, navigate to the `src` directory and run the `main.py` file:
 
 ```bash
 python main.py
-
-
